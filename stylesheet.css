@@ -1,0 +1,27 @@
+.wrapper {
+  width:1000px;
+  background-color: #f7f7f7;
+  padding: 100px 0;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.icon {
+  color: skyblue;
+  margin-right: 5px;
+}
+.btn {
+  display: inline-block;
+  padding:10px 100px;
+  background-color: gray;
+  color: white;
+  border-radius: 30px;
+
+}
+
+.title {
+  color: #02ccba;
+}
